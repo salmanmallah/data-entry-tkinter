@@ -9,10 +9,10 @@ Usage
 To use this script, simply run the data_entry_form.py file using Python 3. The data entry form will appear on your screen. Fill in the fields as desired, and then click the "Save" button to save your data to a CSV file.
 
 ## output after running data_entry_form.py
-![Alt text](https://github.com/salmanpython06/Data-entry-form-tkinter/blob/master/RESULT/SNIPSHOT%20OF%20DATA%20ENTRY%20FORM.jpg)
+![Alt text]([https://github.com/salmanpython06/Data-entry-form-tkinter/blob/master/RESULT/SNIPSHOT%20OF%20DATA%20ENTRY%20FORM.jpg](https://github.com/salmanmallah/data-entry-tkinter/blob/main/RESULT/SNIPSHOT%20OF%20DATA%20ENTRY%20FORM.jpg))
 
 ## Entered data will be saved like this.
-![alt text](https://github.com/salmanpython06/Data-entry-form-tkinter/blob/master/RESULT/form_data_saved_here.jpg)
+![alt text](https://github.com/salmanmallah/data-entry-tkinter/blob/main/RESULT/form_data_saved_here.jpg)
 
 
 ## Contributing
