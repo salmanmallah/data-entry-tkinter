@@ -91,6 +91,7 @@ def action():
             'UserAgreed': agreed,
         })
 
+    
     # delete EntryBox data after submit
     name_entry.delete(0, tk.END)
     email_entry.delete(0, tk.END)
